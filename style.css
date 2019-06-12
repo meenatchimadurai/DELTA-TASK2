@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHP7_HEEbNbRituHDLuRaZhUegTD2WlOakWSuuJq6aH52yHNfHWg");
+    font-family: brush script MT;
+    color :white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 20px;
+    
+    text-align: center;
+    
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+div{
+    margin:auto;
+    
+}
+.quote{
+    
+    color : rgb(92, 55, 228);
+    text-align: right;
+    font-size: 50px;
+
+}
+.quotes{
+    
+    color : rgb(211, 211, 123);
+    text-align: center;
+    font-size: 50px;
+
+
+}
+.empty{
+    width: 450px;
+}
+.link{
+    color:rgb(92, 55, 228);
+    font-family: verdana;
+    text-align: center;
+    font-size: 20px;
+}
+.image{
+    mix-blend-mode: color-dodge;
+    border-radius: 40%;
+    width: 325px;
+}
+
+
